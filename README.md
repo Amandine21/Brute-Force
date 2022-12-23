@@ -5,4 +5,5 @@ to solve for not only a pair of values but all the values. This was a fun exerci
 cybersecurity attack in a control enviorement. I decided to use this approach to solve for resistor values in some of my personal projects.
 
 The programs were written by Alexander Hanks and Luke Henderson
+
 THIS IS FOR ACADEMIC PURPOSES ONLY!
